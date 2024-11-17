@@ -1,2 +1,0 @@
-# DevOps
-Zajecia DevOps
